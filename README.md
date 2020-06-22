@@ -1,3 +1,4 @@
 # Tipos de Datos Abstractos para C
-PILAS estan por ahi<br/>
-COLAS
+PILAS<br/>
+COLAS<br/>
+LISTA

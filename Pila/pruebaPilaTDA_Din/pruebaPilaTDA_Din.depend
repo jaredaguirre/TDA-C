@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1592410186 source:c:\programacion\c\tda-c\pruebapilatda_din\main.c
+	"main.h"
+
+1592410169 c:\programacion\c\tda-c\pruebapilatda_din\main.h
+	<stdio.h>
+	<stdlib.h>
+
+1592412450 source:c:\programacion\c\tda-c\pruebapilatda_din\lineasdetexto\lineatexto.c
+
+1592419662 source:c:\programacion\c\tda-c\pruebapilatda_din\productos\productos.c
+	"productos.h"
+
+1592424149 source:c:\programacion\c\tda-c\pruebapilatda_din\pruebapilatda_din\main.c
+	"main.h"
+
+1592421331 c:\programacion\c\tda-c\pruebapilatda_din\pruebapilatda_din\main.h
+	"../lineasDeTexto/lineaTexto.h"
+	"../productos/productos.h"
+
+1592421566 c:\programacion\c\tda-c\pruebapilatda_din\lineasdetexto\lineatexto.h
+	<string.h>
+
+1592415823 c:\programacion\c\tda-c\pruebapilatda_din\productos\productos.h
+	<stdio.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592424212 source:c:\programacion\c\tda-c\cola\cola_din\lineasdetexto\lineatexto.c
+	"lineaTexto.h"
+
+1592421566 c:\programacion\c\tda-c\cola\cola_din\lineasdetexto\lineatexto.h
+	<string.h>
+
+1592419662 source:c:\programacion\c\tda-c\cola\cola_din\productos\productos.c
+	"productos.h"
+
+1592415823 c:\programacion\c\tda-c\cola\cola_din\productos\productos.h
+	<stdio.h>
+

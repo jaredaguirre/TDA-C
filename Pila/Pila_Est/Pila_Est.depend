@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1592424212 source:c:\programacion\c\tda-c\pila\pila_est\lineasdetexto\lineatexto.c
+	"lineaTexto.h"
+
+1592421566 c:\programacion\c\tda-c\pila\pila_est\lineasdetexto\lineatexto.h
+	<string.h>
+
+1592848049 source:c:\programacion\c\tda-c\pila\pila_est\pila\pila_estatica.c
+	"pila_estatica.h"
+
+1592846397 c:\programacion\c\tda-c\pila\pila_est\pila\pila_estatica.h
+	<string.h>
+
+1592424149 source:c:\programacion\c\tda-c\pila\pila_est\pila_est\main.c
+	"main.h"
+
+1592844505 c:\programacion\c\tda-c\pila\pila_est\pila_est\main.h
+	"../lineasDeTexto/lineaTexto.h"
+	"../productos/productos.h"
+	"../productos/productos.h"
+
+1592415823 c:\programacion\c\tda-c\pila\pila_est\productos\productos.h
+	<stdio.h>
+
+1592419662 source:c:\programacion\c\tda-c\pila\pila_est\productos\productos.c
+	"productos.h"
+
