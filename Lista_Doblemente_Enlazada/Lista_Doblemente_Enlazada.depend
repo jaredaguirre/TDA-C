@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1594087417 source:c:\programacion\c\tda-c\lista_doblemente_enlazada\listadoble.c
+	"listaDoble.h"
+
+1594087146 c:\programacion\c\tda-c\lista_doblemente_enlazada\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1584205420 source:c:\programacion\c\tda-c\lista_doblemente_enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+

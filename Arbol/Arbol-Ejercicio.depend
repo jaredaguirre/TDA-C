@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1594004628 source:c:\programacion\c\tda-c\arbol-ejercicio\biblioteca\arbol_bin_busq.c
+	"arbol_bin_busq.h"
+
+1594004412 c:\programacion\c\tda-c\arbol-ejercicio\biblioteca\arbol_bin_busq.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1594007476 source:c:\programacion\c\tda-c\arbol-ejercicio\main.c
+	"main.h"
+
+1594002861 c:\programacion\c\tda-c\arbol-ejercicio\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblioteca/arbol_bin_busq.h"
+

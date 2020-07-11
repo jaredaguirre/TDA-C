@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1594009935 source:c:\programacion\c\tda-c\arbol-foro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594066860 source:c:\programacion\c\tda-c\arbol-foro\main\main.c
+	"main.h"
+
+1594015563 source:c:\users\user\desktop\tda-c\arbol-foro\main\main.c
+	"main.h"
+
+1594014646 c:\users\user\desktop\tda-c\arbol-foro\main\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../productos/productos.h"
+
+1594015563 c:\users\user\desktop\tda-c\arbol-foro\productos\productos.h
+	<stdio.h>
+
+1594015601 source:c:\users\user\desktop\tda-c\arbol-foro\productos\productos.c
+	"productos.h"
+
+1594065893 source:c:\programacion\c\tda-c\arbol-foro\productos\productos.c
+	"productos.h"
+
+1594065881 c:\programacion\c\tda-c\arbol-foro\productos\productos.h
+	<stdio.h>
+
+1594065941 c:\programacion\c\tda-c\arbol-foro\main\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../productos/productos.h"
+
